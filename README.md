@@ -5,6 +5,6 @@
 - 🎯 I’m currently studying Bachelor of Science in Computer Science
 - 🚀 I’m currently learning HTML, CSS, JavaScript, Kotlin, Java
 
-<a href="https://www.linkedin.com/in/roland-ruales/">LinkedIn
- <img src="https://img.icons8.com/color/256/linkedin.png">
+<a href="https://www.linkedin.com/in/roland-ruales/">
+ <img src="https://img.icons8.com/color/256/linkedin.png" align="left" width="22px" alt="LinkedIn">LinkedIn
 </a>
