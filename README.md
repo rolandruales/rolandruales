@@ -6,7 +6,7 @@
 - 🚀 I’m currently learning HTML, CSS, JavaScript, Kotlin, Java
 
 <a href="https://www.linkedin.com/in/roland-ruales/">
- <img src="https://img.icons8.com/color/256/linkedin.png" align="center" width="25px" alt="LinkedIn">LinkedIn     
+ <img src="https://img.icons8.com/color/256/linkedin.png" align="center" width="25px" alt="LinkedIn">LinkedIn &emsp;
 </a>
 
 <a href="https://www.linkedin.com/in/roland-ruales/">
