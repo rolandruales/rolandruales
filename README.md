@@ -1,6 +1,6 @@
  # Hi there 👋
  
- ## I'm <span style="color:white">Roland</span> Ruales from Philippines, I am looking forward to be a Software engineer and Android developer.
+ ## I'm <span style="color:green">Roland</span> Ruales from Philippines, I am looking forward to be a Software engineer and Android developer.
 
 - 🎯 I’m currently studying Bachelor of Science in Computer Science
 - 🚀 I’m currently learning HTML, CSS, JavaScript, Kotlin, Java
