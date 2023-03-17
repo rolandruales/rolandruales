@@ -9,6 +9,7 @@
  <img src="https://img.icons8.com/color/256/linkedin.png" align="center" width="25px" alt="LinkedIn">LinkedIn
 </a>
 
+nbsp
 
 <a href="https://www.linkedin.com/in/roland-ruales/">
  <img src="https://img.icons8.com/color/256/web.png" align="center" width="25px" alt="Portfolio">Portfolio
