@@ -10,5 +10,5 @@
 </a>
 
 <a href="https://www.linkedin.com/in/roland-ruales/">
- <img src="https://img.icons8.com/color/256/web.png" align="center" width="25px" alt="Portfolio">Portfolio
+ <span style="background-color:white"><img src="https://img.icons8.com/color/256/web.png" align="center" width="25px" alt="Portfolio">Portfolio</span>
 </a>
