@@ -13,5 +13,7 @@
  <img src="https://img.icons8.com/color/256/web.png" align="center" width="25px" alt="Portfolio"><span style="color:white">Portfolio</span>
 </a>
 
-<img src="https://github.com/rolandruales/rolandruales/assets/84693350/900362fe-566a-40bc-b493-15fdd03b49c4" width="300" height="300">
+
+<br>
+<img src="https://github.com/rolandruales/rolandruales/assets/84693350/900362fe-566a-40bc-b493-15fdd03b49c4" width="100" height="100">
 
