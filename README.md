@@ -14,7 +14,10 @@
 </a>
 <br>
 <br>
-<img src="https://github.com/rolandruales/rolandruales/assets/84693350/900362fe-566a-40bc-b493-15fdd03b49c4" width="50" height="50"> | <img src="https://github.com/rolandruales/rolandruales/assets/84693350/193a74f2-cdf3-421f-8b1e-432073cb1b0c" width="50" height="50">
+<h3>
+<img src="https://github.com/rolandruales/rolandruales/assets/84693350/900362fe-566a-40bc-b493-15fdd03b49c4" width="50" height="50">
+<img src="https://github.com/rolandruales/rolandruales/assets/84693350/193a74f2-cdf3-421f-8b1e-432073cb1b0c" width="50" height="50">
+</h3>
 
 
 
