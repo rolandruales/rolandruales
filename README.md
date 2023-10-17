@@ -15,5 +15,5 @@
 
 
 <br>
-<img src="https://github.com/rolandruales/rolandruales/assets/84693350/900362fe-566a-40bc-b493-15fdd03b49c4" width="100" height="100">
+<img src="https://github.com/rolandruales/rolandruales/assets/84693350/900362fe-566a-40bc-b493-15fdd03b49c4" width="50" height="50"> | <img src="https://github.com/rolandruales/rolandruales/assets/84693350/900362fe-566a-40bc-b493-15fdd03b49c4" width="50" height="50">
 
