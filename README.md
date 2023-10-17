@@ -21,10 +21,10 @@
 <img src="https://github.com/rolandruales/rolandruales/assets/84693350/900362fe-566a-40bc-b493-15fdd03b49c4" width="50" height="50">
 <img src="https://github.com/rolandruales/rolandruales/assets/84693350/193a74f2-cdf3-421f-8b1e-432073cb1b0c" width="50" height="50">
 <img src="https://github.com/rolandruales/rolandruales/assets/84693350/8f5ac0eb-e992-4462-8e3c-321fc4181c4d" width="50" height="50">
-<img src="https://github.com/rolandruales/rolandruales/assets/84693350/1597316f-18f6-4123-b168-eccb39d5ae4b" width="45" height="45">
+<img src="https://github.com/rolandruales/rolandruales/assets/84693350/1597316f-18f6-4123-b168-eccb39d5ae4b" width="40" height="40">
 <img src="https://github.com/rolandruales/rolandruales/assets/84693350/46f31b74-5d2a-4742-a41a-2507668f00ac" width="50" height="50">
 <img src="https://github.com/rolandruales/rolandruales/assets/84693350/3ba37db8-efb9-42af-b439-a8266ce60d43" width="50" height="50">
-
+<img src="https://github.com/rolandruales/rolandruales/assets/84693350/a9eb3529-e6a3-4774-bb6a-dfcc452d6898" width="50" height="50">
 </h3>
 
 
